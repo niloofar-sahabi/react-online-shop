@@ -2,6 +2,15 @@
 
 A fully functional and responsive e-commerce web application built with **React.js**. This project features client-side routing, global state management, and a dynamic shopping cart system.
 
+## 📸 Project Preview & Demo
+
+### Main Page:
+![Main Page Screenshot](./assets/screenshot.png)
+
+### Short Demo Video:
+<video src="./assets/demo.mp4" controls width="100%"></video>
+
+
 ## 🚀 Features
 - **Product Catalog:** Browse a dynamic list of products fetched from local data.
 - **Shopping Cart System:** 
