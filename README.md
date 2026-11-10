@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Online Shop
 
 A simple and responsive e-commerce web application built with React. This project was created as a practice to master React components, state management, and shopping cart functionality.
