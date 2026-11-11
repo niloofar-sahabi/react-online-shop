@@ -4,7 +4,7 @@ A simple and responsive e-commerce web application built with React. This projec
 
 ## Preview
 
-![Project Screenshot](./assets/screenshot.png)
+<img width="1016" height="762" alt="screenshot png" src="https://github.com/user-attachments/assets/4e953efc-eadd-49c6-9d49-49d3a6be1bf5" />
 
 ## Features
 
